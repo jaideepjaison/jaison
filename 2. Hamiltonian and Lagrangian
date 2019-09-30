@@ -10,6 +10,7 @@ on its right side in the array.
 void main()
 {
 int n;
+printf("enter n \n");
 scanf("%d",&n);
 int a[n],count=0;
 for(int i=0;i<n;i++)
